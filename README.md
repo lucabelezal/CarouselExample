@@ -1,2 +1,2 @@
 # CarouselExample
-Swift
+Swift 3
