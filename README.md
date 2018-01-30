@@ -1,2 +1,2 @@
-# CarouselExample
+# Carousel Example
 Swift 3
